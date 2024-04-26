@@ -1,5 +1,24 @@
-# DIO - Trilha .NET - Fundamentos
-www.dio.me
+# Resumo 
+✨ O projeto consiste na construção de um sistema de estacionamento em C#.
+
+🚗 Permite aos usuários realizar operações básicas, como adicionar veículos, remover veículos e listar veículos estacionados.
+
+💻 O sistema foi desenvolvido para ser executado no console, fornecendo uma interface simples e fácil de usar.
+
+🧱 Utiliza conceitos fundamentais de programação orientada a objetos, como classes, métodos e propriedades.
+
+🔄 Demonstrou o uso de estruturas de controle de fluxo, como condicionais e loops, para criar uma lógica de funcionamento eficiente e robusta.
+
+🧠 A prática ajudou a solidificar o entendimento de conceitos de orientação a objetos.
+
+📦 Proporcionou uma compreensão mais profunda de como estruturar e organizar o código de forma eficiente.
+
+🔍 Desenvolveu habilidades de resolução de problemas e pensamento lógico.
+
+🚀 Preparou o caminho para projetos futuros mais desafiadores e ambiciosos.
+
+
+# O desafio 👇🏽
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
